@@ -1,0 +1,15 @@
+body {
+    background: center url(ombrewp.png);
+    background-size: cover;
+
+  }
+
+  h1 {
+    color: rosybrown;
+
+  }
+
+  h2 {
+    
+    border: 4mm ridge burlywood;
+  }
